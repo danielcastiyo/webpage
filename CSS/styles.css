@@ -35,14 +35,14 @@ body {
 }
 .top-cloud {
     position: absolute;
-    right: 300px;
-    top: 50px;
+    right: 20%;
+    top: 15%;
 
 }
 .bottom-cloud {
     position: absolute;
-    bottom: 300px;
-    left: 300px;
+    bottom: 50%;
+    left: 25%;
 
 }
 .mountain {
